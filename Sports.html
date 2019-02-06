@@ -9,20 +9,44 @@ and open the template in the editor.
         <title> Sports </title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+        * {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
     </head>
     <body>
        
 	<h1> Sports </h1>
 	<p> I love sports and  I think it is a great way to relax and to learn team building skills. </p>
 	<p> I also enjoy watching sports nothing brings people together like a good match. </p>
-	
-	<h2> Sports that I have an Interest in</h2>
-		<ul>
-			<li> Hurling/ Camogie </li>
-			<li> Rugby </li>
-			<li> Soccer </li>
-			
-		</ul>
-		<h2> Hurling/ Camogie </h2>
+        <h2>Kickboxing</h2>
+        <p> I started kickboxing when I joined UCC.It is a very physically challenging sport.</p>
+        <p> We Pratice every Monday and Wednesday Evening</p>
+        <div class="row">
+            <div class="column">
+                 <img src="KickBox.png" alt="Kickboxing" style="width:500px;height:250px;">
+            </div>
+            <div class="column">
+                  <img src="UCCSport.png" alt="London City" style="width:500px;height:250px;">
+            </div>
+            <div class="column">
+                 <img src="Kickboxing.jpg" alt="Underground" style="width:500px;height:250px;">
+            </div>
+        </div> 
     </body>
 </html>
