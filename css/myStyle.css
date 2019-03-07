@@ -1,0 +1,53 @@
+body {
+  background-color: grey; 
+  background-image: linear-gradient(lightgray, black); 
+}
+
+h1{
+    font-family: Verdana, Geneva, sans-serif; 
+    font-size: 55px;
+    text-align:  center;
+    background: -webkit-linear-gradient(#ffffff,#cccccc );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h2{
+    font-family: Verdana, Geneva, sans-serif;
+     background: -webkit-linear-gradient(#ffffff,#cccccc );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h3{
+    font-family: Verdana, Geneva, sans-serif;
+     background: -webkit-linear-gradient(#ffffff,#cccccc );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h4{
+    font-family: Verdana, Geneva, sans-serif;
+     background: -webkit-linear-gradient(#ffffff,#cccccc );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+p{
+     font-family: Verdana, Geneva, sans-serif;
+     font-size: 20px;
+      background: -webkit-linear-gradient(#ffffff,#cccccc );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+ul{
+    color: white;
+}
+
+a{
+    font-family: Verdana, Geneva, sans-serif;
+    background: -webkit-linear-gradient(#cccccc, #ffffff );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
