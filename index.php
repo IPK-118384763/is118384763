@@ -68,7 +68,7 @@ body{
                                                 <h1>Welcome</h1>
                                                 <h2>Irene Patricia Kirwan</h2>
                                                 <h2>118384763</h2>
-                                                <h2>Heroku:<a href="https://ipk-phpproject1.herokuapp.com/">https://ipk-phpproject1.herokuapp.com/</a></h2>
+                                                <h2>Heroku:<a href="https://is1113118384763.herokuapp.com/">https://is1113118384763.herokuapp.com/</a></h2>
   
     </center>
 </div>
